@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "author": "Andrii Kondratovich <andrii.kondratovcih@gmail.com>",
   "scripts": {
-    "start": "npx parcel src/index.html"
+    "start": "npx parcel parcel2/src/index.html"
   },
   "dependencies": {
     "joi": "^17.12.3",
