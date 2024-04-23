@@ -1,0 +1,11 @@
+{
+  "name": "parcel2",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npx parcel index.html"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
