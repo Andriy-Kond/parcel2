@@ -4,7 +4,6 @@
   "scripts": {
     "start": "npx parcel src/index.html"
   },
-  "keywords": [],
   "devDependencies": {
     "parcel": "^2.12.0"
   }
