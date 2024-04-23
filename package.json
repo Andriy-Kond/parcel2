@@ -2,7 +2,7 @@
   "name": "parcel2",
   "version": "1.0.0",
   "scripts": {
-    "start": "npx parcel index.html"
+    "start": "npx parcel src/index.html"
   },
   "keywords": [],
   "devDependencies": {
